@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+#card-body{
+  width: auto;
+ 
+  padding: 10px;
+  margin-top: 20%;
+}
+#card-title{
+  padding: 8px;
+}
+#card{
+  margin: 10px;
+}
+input[type=submit]{
+  padding: 2px 5px 2px 5px;
+  background-color:aquamarine;
+}
